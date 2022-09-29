@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: Ehsan Saleh
-title: Senior Network System Administrator
+title: Machine Learning researcher & Smart Contract developer
 email: ehsansaleh155@gmail.com
-website: ehsansaleh155.github.io
+# website: ehsansaleh155.github.io
+skype: live:.cid.410b7f9d5d83fd60
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -33,7 +34,7 @@ linkedin_username: ehsan-saleh-3b7648114
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://ehsansaleh155.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,8 +49,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain. Currently, I'm working on using the tricks of Adversarial Machine Learning in VQA (Visual Question Answering) system. I have also been learning and developing DApps in Ethereum and Solana blockchains. My goal is to do research and develop applications to make positive impacts on human society.
-
+  My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain.  
+  Currently, I'm working on using the tricks of Adversarial Machine Learning in VQA (Visual Question Answering) system.  
+  I have also been learning and developing DApps in Ethereum and Solana blockchains. My goal is to do research and develop applications to make positive impacts on human society.  
+  **Birthyear:** 1998
 
 content:
   - title: Education # Title for the section
@@ -63,8 +66,8 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Address:** 36 Lenin Ave. Tomsk, 634050 Tomsk (Russia)  
-          **Website:** https://www.tsu.ru  
-          **Field(s) of study:** Information technology in science and instrument engieering  
+          **Website:** www.tsu.ru  
+          **Field(s) of study:** Information technology in science and instrument engineering  
           **Final grade:** 4.94/5.00  
           **Thesis:** Boosting Adversarial Training in Adversarial Machine Learning  
           Machine Learning  
@@ -78,7 +81,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Address:** Daneshju Str. Velenjak, 1983969411 Tehran (Iran)  
-          **Website:** https://www.sbu.ac.ir  
+          **Website:** www.sbu.ac.ir  
           **Field(s) of study:**  Electrical Engineering  
           **Final grade:** 17.69/20.00 (US GPA: 3.86/4.00)  
           **Thesis:** Convergence of IoT and 5G, and a brief study on 6G concepts  
