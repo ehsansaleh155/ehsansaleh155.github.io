@@ -169,27 +169,25 @@ content:
         # link: github.com/sproogen
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
-          **Persian:** Native  
-          **English:** C1  
-          **Russian:** A2  
-          **German:** A1  
+          **Persian:** Native  /  **English:** C1  /  **Russian:** A2  /  **German:** A1  
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         # title: 
         caption: 2022
+        link: http://fit.tsu.ru/ru/conf/inno/2022/publications
         description: | # this will include new lines to allow paragraphs  
           **PREDICTING THE GROWTH OF THE TUMORS USING GANS**  
           XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
-          Link to paper [HERE] (http://fit.tsu.ru/ru/conf/inno/2022/publications)  
-      - layout: left
+          Link to paper [HERE] ()  
+      - layout: top-middle
         title: REVIEW ON WIRELESS SECURITY PROTOCOLS (WPA2 & WPA3)
         caption: 2021
         description: | # this will include new lines to allow paragraphs  
           XVII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2021)  
           Link to paper [HERE] (http://fit.tsu.ru/ru/conf/inno/2021/publications)  
-      - layout: left
+      - layout: top-middle
         title: A Review of Industrial Applications of Ultrasonics
         caption: 2019
         description: | # this will include new lines to allow paragraphs  
