@@ -194,6 +194,94 @@ content:
         description: | # this will include new lines to allow paragraphs  
           9th International Conference on Acoustic and Vibration  
             
+  - title: Conference & Seminar # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left
+        title: The 2nd West Asian Colloquium on Optical Wireless Communications (WACOWC 2019), spring 2019.  
+        caption: **2019**
+        link: http://wacowc2019.sbu.ac.ir  
+        description: | # this will include new lines to allow paragraphs   
+          **Location:** Shahid Beheshti University, Tehran, Iran  
+          Member of conference executive team  
+            
+      - layout: top-left
+        title: The First Seminar in Neural Stimulation Engineering, winter 2019.
+        caption: **2021**
+        # link:   
+        description: | # this will include new lines to allow paragraphs  
+          **Location:** Shahid Beheshti University, Tehran, Iran  
+          **Responsible professor:)) Dr.S.MohammadMahdi Alavi. Email: m_alavi@sbu.ac.ir / mahdi.alavi@uwindsor.ca  
+          Member of seminar executive team   
+            
+  - title: Interests # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left
+        title: Research Interests  
+        description: | # this will include new lines to allow paragraphs   
+          Machine Learning for Healthcare  
+          Adversarial Machine Learning  
+          Computer Vision  
+            
+      - layout: top-left
+        title: Hobbies  
+        description: | # this will include new lines to allow paragraphs   
+          Bowling  
+          Swimming  
+          Badminton  
+          Ice skating  
+          Reading about History and Psychology  
+            
+  - title: Honours & Awards # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left
+        title: Winner of the Open Doors Olympiad 2020 (Russian Scholarship Project Association "Global Universities") in “Engineering & Technology” subject area.  
+        link: https://od.globaluni.ru/en/  
+        # description: | # this will include new lines to allow paragraphs   
+          
+      - layout: top-left
+        title: Python for Everybody Specialization    
+        link: https://www.coursera.org/account/accomplishments/specialization/certificate/9LGUJUHZXMT8
+        # description: | # this will include new lines to allow paragraphs   
+      - layout: top-left
+        title: Applied Cryptography Specialization    
+        link: https://www.coursera.org/account/accomplishments/specialization/certificate/LUEVKTWN5V3Z
+        # description: | # this will include new lines to allow paragraphs  
+      - layout: top-left
+        title: Cryptography and Hashing Overview    
+        link: https://www.coursera.org/account/accomplishments/certificate/KLFBA6Q35BSN
+        # description: | # this will include new lines to allow paragraphs   
+      - layout: top-left
+        title: The Blockchain    
+        link: https://www.coursera.org/account/accomplishments/certificate/2F3SCW3SQP2C
+        # description: | # this will include new lines to allow paragraphs  
+      - layout: top-left
+        title: Introduction to Data Science in Python    
+        link: https://www.coursera.org/account/accomplishments/certificate/SWL9NAD3RDRS
+        # description: | # this will include new lines to allow paragraphs   
+      - layout: top-left
+        title: Introduction to Deep Learning    
+        link: https://www.coursera.org/account/accomplishments/certificate/J7TVJGZ2DKT3
+        # description: | # this will include new lines to allow paragraphs  
+      - layout: top-left
+        title: Neural Networks and Deep Learning    
+        link: https://www.coursera.org/account/accomplishments/certificate/JNDC6XWAZACH
+        # description: | # this will include new lines to allow paragraphs   
+      - layout: top-left
+        title: Getting started with TensorFlow 2    
+        link: https://www.coursera.org/account/accomplishments/certificate/LJYQMCJ9W545
+        # description: | # this will include new lines to allow paragraphs  
+      - layout: top-left
+        title: Customising your models with TensorFlow 2    
+        link: https://www.coursera.org/account/accomplishments/certificate/KVF9JLWWLRTP
+        # description: | # this will include new lines to allow paragraphs   
+      - layout: top-left
+        title: Cloud Computing Foundations    
+        link: https://www.coursera.org/account/accomplishments/certificate/G5B3ZZ2AWP7X
+        # description: | # this will include new lines to allow paragraphs  
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -219,7 +307,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      [Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
