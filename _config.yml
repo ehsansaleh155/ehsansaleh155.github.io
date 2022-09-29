@@ -173,26 +173,27 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        # title: 
-        caption: 2022
-        link: http://fit.tsu.ru/ru/conf/inno/2022/publications
-        description: | # this will include new lines to allow paragraphs  
-          **PREDICTING THE GROWTH OF THE TUMORS USING GANS**  
+      - layout: top-left
+        title: PREDICTING THE GROWTH OF THE TUMORS USING GANS  
+        caption: **2022**
+        link: http://fit.tsu.ru/ru/conf/inno/2022/publications  
+        description: | # this will include new lines to allow paragraphs   
           XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
-          Link to paper [HERE] ()  
-      - layout: top-middle
+            
+      - layout: top-left
         title: REVIEW ON WIRELESS SECURITY PROTOCOLS (WPA2 & WPA3)
-        caption: 2021
+        caption: **2021**
+        link: http://fit.tsu.ru/ru/conf/inno/2021/publications  
         description: | # this will include new lines to allow paragraphs  
           XVII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2021)  
-          Link to paper [HERE] (http://fit.tsu.ru/ru/conf/inno/2021/publications)  
+            
       - layout: top-middle
         title: A Review of Industrial Applications of Ultrasonics
-        caption: 2019
+        caption: **2019**
+        link: https://en.civilica.com/Paper-ISAV09-ISAV09_036=A-Review-of-Industrial-Applications-of-Ultrasonics.html  
         description: | # this will include new lines to allow paragraphs  
           9th International Conference on Acoustic and Vibration  
-          Link to paper [HERE] (https://en.civilica.com/Paper-ISAV09-ISAV09_036=A-Review-of-Industrial-Applications-of-Ultrasonics.html)  
+            
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
