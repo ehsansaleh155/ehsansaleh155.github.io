@@ -22,7 +22,7 @@ github_username:  ehsansaleh155
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: https://www.linkedin.com/in/ehsan-saleh-3b7648114/
+linkedin_username: ehsan-saleh-3b7648114
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -50,7 +50,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain. Currently, I'm working on using the tricks of Adversarial Machine Learning in VQA (Visual Question Answering) system. I have also been learning and developing DApps in Ethereum and Solana blockchains. My goal is to do research and develop applications to make positive impacts on human society.
 
-  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Education # Title for the section
@@ -63,14 +62,14 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Address:** 36 Lenin Ave. Tomsk, 634050 Tomsk (Russia)
-          **Website:** https://www.tsu.ru
-          **Field(s) of study:** Information technology in science and instrument engieering
-          **Final grade:** 4.94/5.00
-          **Thesis:** Boosting Adversarial Training in Adversarial Machine Learning
-          Machine Learning
-          Computer Vision and Automation
-          Technology, Quality, and Project management
+          **Address:** 36 Lenin Ave. Tomsk, 634050 Tomsk (Russia)  
+          **Website:** https://www.tsu.ru  
+          **Field(s) of study:** Information technology in science and instrument engieering  
+          **Final grade:** 4.94/5.00  
+          **Thesis:** Boosting Adversarial Training in Adversarial Machine Learning  
+          Machine Learning  
+          Computer Vision and Automation  
+          Technology, Quality, and Project management  
       - layout: left
         title: Shahid Beheshti University
         caption: 2016 - 2020
@@ -78,14 +77,14 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Address:** Daneshju Str. Velenjak, 1983969411 Tehran (Iran)
-          **Website:** https://www.sbu.ac.ir
-          **Field(s) of study:**  Electrical Engineering
-          **Final grade:** 17.69/20.00 (US GPA: 3.86/4.00)
-          **Thesis:** Convergence of IoT and 5G, and a brief study on 6G concepts
-          Telecommunication
-          Digital Electronics
-          Digital Signal Processing
+          **Address:** Daneshju Str. Velenjak, 1983969411 Tehran (Iran)  
+          **Website:** https://www.sbu.ac.ir  
+          **Field(s) of study:**  Electrical Engineering  
+          **Final grade:** 17.69/20.00 (US GPA: 3.86/4.00)  
+          **Thesis:** Convergence of IoT and 5G, and a brief study on 6G concepts  
+          Telecommunication  
+          Digital Electronics  
+          Digital Signal Processing  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
