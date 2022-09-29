@@ -51,7 +51,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain.  
   Currently, I'm working on using the tricks of Adversarial Machine Learning in VQA (Visual Question Answering) system.  
-  I have also been learning and developing DApps in Ethereum and Solana blockchains. My goal is to do research and develop applications to make positive impacts on human society.  
+  I have also been learning and developing DApps in Ethereum and Solana blockchains.  
+  My goal is to do research and develop applications to make positive impacts on human society.  
+    
   **Birthyear:** 1998
 
 content:
@@ -115,7 +117,7 @@ content:
       - layout: left
         title: Head of robotic society
         caption:  14/09/2018 – 14/03/2019
-        sub_title: Telecommunication Infrastructure Company (Ministry of ICT)
+        sub_title: Shahid Beheshti University
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -124,7 +126,7 @@ content:
       - layout: left
         title: Vice chairman of robotic society
         caption:  30/11/2017 – 14/09/2018
-        sub_title: Telecommunication Infrastructure Company (Ministry of ICT)
+        sub_title: Shahid Beheshti University
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -150,12 +152,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Web:**  
           Web Development: HTML 5, CSS, JavaScript / React  
+            
           **Electrical Engineering:**  
           Pspice / Hspice / ADS (Advanced Design System) / Keil uVision4 / Code Vision AVR / Arduino / Proteus / MATLAB / AutoCAD  
+            
           **Programming Languages:**  
           Rust / Python / C# / Java / Scala / C / C++ / R / SQL / solidity  
+            
           **Artificial Intelligence:**  
           Generative Adversarial Networks (GAN) / Machine Learning / Deep Learning / Natural Language Processing (NLP) / Reinforcement Learning / TensorFlow2 / Keras / PyTorch  
+            
           **Other:**  
           Windows / Kali Linux / Computer Vision (OpenCV) / Smart Contract Development (Ethereum & Solana) / Microsoft Word / Microsoft Powerpoint / Microsoft Excel / Cryptography / CCNA  
       - layout: top-middle
@@ -163,28 +169,31 @@ content:
         # link: github.com/sproogen
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
-          **Persian:** Native           **English:** C1  
-          **Russian:** A2               **German:** A1  
+          **Persian:** Native  
+          **English:** C1  
+          **Russian:** A2  
+          **German:** A1  
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PREDICTING THE GROWTH OF THE TUMORS USING GANS
+        # title: 
         caption: 2022
         description: | # this will include new lines to allow paragraphs  
+          **PREDICTING THE GROWTH OF THE TUMORS USING GANS**  
           XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
           Link to paper [HERE] (http://fit.tsu.ru/ru/conf/inno/2022/publications)  
       - layout: left
         title: REVIEW ON WIRELESS SECURITY PROTOCOLS (WPA2 & WPA3)
         caption: 2021
         description: | # this will include new lines to allow paragraphs  
-          XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
+          XVII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2021)  
           Link to paper [HERE] (http://fit.tsu.ru/ru/conf/inno/2021/publications)  
       - layout: left
         title: A Review of Industrial Applications of Ultrasonics
         caption: 2019
         description: | # this will include new lines to allow paragraphs  
-          XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
+          9th International Conference on Acoustic and Vibration  
           Link to paper [HERE] (https://en.civilica.com/Paper-ISAV09-ISAV09_036=A-Review-of-Industrial-Applications-of-Ultrasonics.html)  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
