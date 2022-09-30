@@ -175,21 +175,21 @@ content:
     content:
       - layout: top-middle
         title: PREDICTING THE GROWTH OF THE TUMORS USING GANS  
-        caption: **2022**
+        caption: 2022
         link: http://fit.tsu.ru/ru/conf/inno/2022/publications  
         description: | # this will include new lines to allow paragraphs   
           XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
             
       - layout: top-middle
         title: REVIEW ON WIRELESS SECURITY PROTOCOLS (WPA2 & WPA3)
-        caption: **2021**
+        caption: 2021
         link: http://fit.tsu.ru/ru/conf/inno/2021/publications  
         description: | # this will include new lines to allow paragraphs  
           XVII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2021)  
             
       - layout: top-middle
         title: A Review of Industrial Applications of Ultrasonics
-        caption: **2019**
+        caption: 2019
         link: https://en.civilica.com/Paper-ISAV09-ISAV09_036=A-Review-of-Industrial-Applications-of-Ultrasonics.html  
         description: | # this will include new lines to allow paragraphs  
           9th International Conference on Acoustic and Vibration  
@@ -199,7 +199,7 @@ content:
     content:
       - layout: top-middle
         title: The 2nd West Asian Colloquium on Optical Wireless Communications (WACOWC 2019), spring 2019.  
-        caption: **2019**
+        caption: 2019
         link: http://wacowc2019.sbu.ac.ir  
         description: | # this will include new lines to allow paragraphs   
           **Location:** Shahid Beheshti University, Tehran, Iran  
@@ -207,7 +207,7 @@ content:
             
       - layout: top-middle
         title: The First Seminar in Neural Stimulation Engineering, winter 2019.
-        caption: **2021**
+        caption: 2021
         # link:   
         description: | # this will include new lines to allow paragraphs  
           **Location:** Shahid Beheshti University, Tehran, Iran  
@@ -240,7 +240,6 @@ content:
         title: Winner of the Open Doors Olympiad 2020 (Russian Scholarship Project Association "Global Universities") in “Engineering & Technology” subject area.  
         link: https://od.globaluni.ru/en/  
         # description: | # this will include new lines to allow paragraphs   
-          
       - layout: top-middle
         title: Python for Everybody Specialization    
         link: https://www.coursera.org/account/accomplishments/specialization/certificate/9LGUJUHZXMT8
@@ -281,18 +280,6 @@ content:
         title: Cloud Computing Foundations    
         link: https://www.coursera.org/account/accomplishments/certificate/G5B3ZZ2AWP7X
         # description: | # this will include new lines to allow paragraphs  
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      [Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
