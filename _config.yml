@@ -180,7 +180,7 @@ content:
         description: | # this will include new lines to allow paragraphs   
           XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
             
-      - layout: top-left
+      - layout: left
         title: REVIEW ON WIRELESS SECURITY PROTOCOLS (WPA2 & WPA3)
         caption: 2021
         link: http://fit.tsu.ru/ru/conf/inno/2021/publications  
