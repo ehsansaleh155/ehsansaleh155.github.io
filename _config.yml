@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ehsan Saleh
-title: Machine Learning researcher & Smart Contract developer
+title: Machine Learning researcher
 email: ehsansaleh155@gmail.com
 # website: ehsansaleh155.github.io
 skype: live:.cid.410b7f9d5d83fd60
@@ -173,15 +173,14 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
-        # title:   
+      - layout: top-middle
+        title: PREDICTING THE GROWTH OF THE TUMORS USING GANS  
         caption: 2022
         link: http://fit.tsu.ru/ru/conf/inno/2022/publications  
         description: | # this will include new lines to allow paragraphs  
-          **PREDICTING THE GROWTH OF THE TUMORS USING GANS**
           XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
             
-      - layout: left
+      - layout: top-middle
         title: REVIEW ON WIRELESS SECURITY PROTOCOLS (WPA2 & WPA3)
         caption: 2021
         link: http://fit.tsu.ru/ru/conf/inno/2021/publications  
