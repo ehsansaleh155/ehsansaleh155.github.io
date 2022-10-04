@@ -64,11 +64,11 @@ content:
         title: Tomsk State University
         caption: 2020 - 2022
         sub_title: Master of Science
+        link: www.tsu.ru  
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Address:** 36 Lenin Ave. Tomsk, 634050 Tomsk (Russia)  
-          **Website:** www.tsu.ru  
+          **Address:** 36 Lenin Ave. Tomsk, 634050 Tomsk (Russia)    
           **Field(s) of study:** Information technology in science and instrument engineering  
           **Final grade:** 4.94/5.00  
           **Thesis:** Boosting Adversarial Training in Adversarial Machine Learning  
@@ -79,11 +79,11 @@ content:
         title: Shahid Beheshti University
         caption: 2016 - 2020
         sub_title: Bachelor of Science
+        link: www.sbu.ac.ir  
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Address:** Daneshju Str. Velenjak, 1983969411 Tehran (Iran)  
-          **Website:** www.sbu.ac.ir  
           **Field(s) of study:**  Electrical Engineering  
           **Final grade:** 17.69/20.00 (US GPA: 3.86/4.00)  
           **Thesis:** Convergence of IoT and 5G, and a brief study on 6G concepts  
@@ -207,7 +207,7 @@ content:
             
       - layout: top-middle
         title: The First Seminar in Neural Stimulation Engineering, winter 2019.
-        caption: 2021
+        caption: 2019
         # link:   
         description: | # this will include new lines to allow paragraphs  
           **Location:** Shahid Beheshti University, Tehran, Iran  
