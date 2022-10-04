@@ -157,7 +157,7 @@ content:
           Pspice / Hspice / ADS (Advanced Design System) / Keil uVision4 / Code Vision AVR / Arduino / Proteus / MATLAB / AutoCAD  
             
           **Programming Languages:**  
-          Rust / Python / C# / Java / Scala / C / C++ / R / SQL / solidity  
+          Python / Rust / solidity / C / C++ / Java / Scala / SQL / R / C#  
             
           **Artificial Intelligence:**  
           Generative Adversarial Networks (GAN) / Machine Learning / Deep Learning / Natural Language Processing (NLP) / Reinforcement Learning / TensorFlow2 / Keras / PyTorch  
@@ -211,7 +211,7 @@ content:
         # link:   
         description: | # this will include new lines to allow paragraphs  
           **Location:** Shahid Beheshti University, Tehran, Iran  
-          **Responsible professor:)) Dr.S.MohammadMahdi Alavi. Email: m_alavi@sbu.ac.ir / mahdi.alavi@uwindsor.ca  
+          **Responsible professor:** Dr.S.MohammadMahdi Alavi. Email: m_alavi@sbu.ac.ir / mahdi.alavi@uwindsor.ca  
           Member of seminar executive team   
             
   - title: Interests # Title for the section
@@ -282,7 +282,7 @@ content:
         # description: | # this will include new lines to allow paragraphs  
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
