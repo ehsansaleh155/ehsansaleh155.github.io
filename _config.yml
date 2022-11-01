@@ -17,7 +17,7 @@ darkmode: false
 
 # Social links
 twitter_username: EhsanSaleh14
-github_username:  ehsansaleh155
+github_username: ehsansaleh155
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -32,9 +32,9 @@ linkedin_username: ehsan-saleh-3b7648114
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://ehsansaleh155.github.io
+  - title: itsgoingto.be
+    icon: fas fa-globe
+    url: https://ehsansaleh155.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -64,7 +64,7 @@ content:
         title: Tomsk State University
         caption: 2020 - 2022
         sub_title: Master of Science
-        link: www.tsu.ru  
+        link: www.tsu.ru
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -74,12 +74,12 @@ content:
           **Thesis:** Boosting Adversarial Training in Adversarial Machine Learning  
           Machine Learning  
           Computer Vision and Automation  
-          Technology, Quality, and Project management  
+          Technology, Quality, and Project management
       - layout: left
         title: Shahid Beheshti University
         caption: 2016 - 2020
         sub_title: Bachelor of Science
-        link: www.sbu.ac.ir  
+        link: www.sbu.ac.ir
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -89,7 +89,7 @@ content:
           **Thesis:** Convergence of IoT and 5G, and a brief study on 6G concepts  
           Telecommunication  
           Digital Electronics  
-          Digital Signal Processing  
+          Digital Signal Processing
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -104,35 +104,35 @@ content:
           **Website:** www.sbu.ac.ir  
           Teacher assistant of the course “Signals & Systems” (Dr. Z. Ahmadian), winter & spring 2020.  
           Teacher assistant of the course “Communication Circuits” (Dr. S. Karimian), fall 2019.  
-          Teacher assistant of the course “Electromagnetics” (Dr. A. Pirhadi), fall 2019.  
+          Teacher assistant of the course “Electromagnetics” (Dr. A. Pirhadi), fall 2019.
       - layout: left
         title: Intern
-        caption:  30/06/2019 – 24/09/2019
+        caption: 30/06/2019 – 24/09/2019
         sub_title: Telecommunication Infrastructure Company (Ministry of ICT)
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Location:** Tehran, Iran  
-          **Website:** www.tic.ir  
+          **Website:** www.tic.ir
       - layout: left
         title: Head of robotic society
-        caption:  14/09/2018 – 14/03/2019
+        caption: 14/09/2018 – 14/03/2019
         sub_title: Shahid Beheshti University
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Location:** Tehran, Iran  
-          **Website:** www.sbu.ac.ir 
+          **Website:** www.sbu.ac.ir
       - layout: left
         title: Vice chairman of robotic society
-        caption:  30/11/2017 – 14/09/2018
+        caption: 30/11/2017 – 14/09/2018
         sub_title: Shahid Beheshti University
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Location:** Tehran, Iran  
           **Website:** www.sbu.ac.ir  
-          Tutor of an “Arduino” workshop, spring 2018.  
+          Tutor of an “Arduino” workshop, spring 2018.
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -144,9 +144,9 @@ content:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -163,123 +163,134 @@ content:
           Generative Adversarial Networks (GAN) / Machine Learning / Deep Learning / Natural Language Processing (NLP) / Reinforcement Learning / TensorFlow2 / Keras / PyTorch  
             
           **Other:**  
-          Windows / Kali Linux / Computer Vision (OpenCV) / Smart Contract Development (Ethereum & Solana) / Microsoft Word / Microsoft Powerpoint / Microsoft Excel / Cryptography / CCNA  
+          Windows / Kali Linux / Computer Vision (OpenCV) / Smart Contract Development (Ethereum & Solana) / Microsoft Word / Microsoft Powerpoint / Microsoft Excel / Cryptography / CCNA
       - layout: top-middle
         title: Language Skills
         # link: github.com/sproogen
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
-          **Persian:** Native  /  **English:** C1  /  **Russian:** A2  /  **German:** A1  
+          **Persian:** Native  /  **English:** C1  /  **Russian:** A2  /  **German:** A1
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: PREDICTING THE GROWTH OF THE TUMORS USING GANS  
+        title: Boosting Adversarial Training in Adversarial Machine Learning
         caption: 2022
-        link: http://fit.tsu.ru/ru/conf/inno/2022/publications  
-        description: | # this will include new lines to allow paragraphs  
+        link: https://itmmconf.ru/
+        description: | # this will include new lines to allow paragraphs
+          21th International Conference named after A. F. Terpugov INFORMATION TECHNOLOGIES AND MATHEMATICAL MODELLING  IТММ – 2022  
+          E. Saleh, A. Poguda, D. Shashev
+
+      - layout: top-middle
+        title: PREDICTING THE GROWTH OF THE TUMORS USING GANS
+        caption: 2022
+        link: http://fit.tsu.ru/ru/conf/inno/2022/publications
+        description: | # this will include new lines to allow paragraphs
           XVIII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2022)  
-            
+          E. Saleh, A. Poguda
+
       - layout: top-middle
         title: REVIEW ON WIRELESS SECURITY PROTOCOLS (WPA2 & WPA3)
         caption: 2021
-        link: http://fit.tsu.ru/ru/conf/inno/2021/publications  
-        description: | # this will include new lines to allow paragraphs  
+        link: http://fit.tsu.ru/ru/conf/inno/2021/publications
+        description: | # this will include new lines to allow paragraphs
           XVII Международной школы-конференции студентов, аспирантов и молодых ученых (ИННОВАТИКА – 2021)  
-            
+          E. Saleh, A. Poguda
+
       - layout: top-middle
         title: A Review of Industrial Applications of Ultrasonics
         caption: 2019
-        link: https://en.civilica.com/Paper-ISAV09-ISAV09_036=A-Review-of-Industrial-Applications-of-Ultrasonics.html  
-        description: | # this will include new lines to allow paragraphs  
+        link: https://en.civilica.com/Paper-ISAV09-ISAV09_036=A-Review-of-Industrial-Applications-of-Ultrasonics.html
+        description: | # this will include new lines to allow paragraphs
           9th International Conference on Acoustic and Vibration  
-            
+          E. Saleh, S. Karimian
+
   - title: Conference & Seminar # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: The 2nd West Asian Colloquium on Optical Wireless Communications (WACOWC 2019), spring 2019.  
+        title: The 2nd West Asian Colloquium on Optical Wireless Communications (WACOWC 2019), spring 2019.
         caption: 2019
-        link: http://wacowc2019.sbu.ac.ir  
-        description: | # this will include new lines to allow paragraphs   
+        link: http://wacowc2019.sbu.ac.ir
+        description: | # this will include new lines to allow paragraphs
           **Location:** Shahid Beheshti University, Tehran, Iran  
-          Member of conference executive team  
-            
+          Member of conference executive team
+
       - layout: top-middle
         title: The First Seminar in Neural Stimulation Engineering, winter 2019.
         caption: 2019
-        # link:   
-        description: | # this will include new lines to allow paragraphs  
+        # link:
+        description: | # this will include new lines to allow paragraphs
           **Location:** Shahid Beheshti University, Tehran, Iran  
           **Responsible professor:** Dr.S.MohammadMahdi Alavi. Email: m_alavi@sbu.ac.ir / mahdi.alavi@uwindsor.ca  
-          Member of seminar executive team   
-            
+          Member of seminar executive team
+
   - title: Interests # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Research Interests  
-        description: | # this will include new lines to allow paragraphs   
+        title: Research Interests
+        description: | # this will include new lines to allow paragraphs
           - Machine Learning for Healthcare  
           - Adversarial Machine Learning  
-          - Computer Vision  
-            
+          - Computer Vision
+
       - layout: left
-        title: Hobbies  
-        description: | # this will include new lines to allow paragraphs   
+        title: Hobbies
+        description: | # this will include new lines to allow paragraphs
           - Bowling  
           - Swimming  
           - Badminton  
           - Ice skating  
-          - Reading about History and Psychology  
-            
+          - Reading about History and Psychology
+
   - title: Honours & Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Winner of the Open Doors Olympiad 2020 (Russian Scholarship Project Association "Global Universities") in “Engineering & Technology” subject area.  
-        link: https://od.globaluni.ru/en/  
-        # description: | # this will include new lines to allow paragraphs   
+        title: Winner of the Open Doors Olympiad 2020 (Russian Scholarship Project Association "Global Universities") in “Engineering & Technology” subject area.
+        link: https://od.globaluni.ru/en/
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Python for Everybody Specialization    
+        title: Python for Everybody Specialization
         link: https://www.coursera.org/account/accomplishments/specialization/certificate/9LGUJUHZXMT8
-        # description: | # this will include new lines to allow paragraphs   
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Applied Cryptography Specialization    
+        title: Applied Cryptography Specialization
         link: https://www.coursera.org/account/accomplishments/specialization/certificate/LUEVKTWN5V3Z
-        # description: | # this will include new lines to allow paragraphs  
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Cryptography and Hashing Overview    
+        title: Cryptography and Hashing Overview
         link: https://www.coursera.org/account/accomplishments/certificate/KLFBA6Q35BSN
-        # description: | # this will include new lines to allow paragraphs   
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: The Blockchain    
+        title: The Blockchain
         link: https://www.coursera.org/account/accomplishments/certificate/2F3SCW3SQP2C
-        # description: | # this will include new lines to allow paragraphs  
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Introduction to Data Science in Python    
+        title: Introduction to Data Science in Python
         link: https://www.coursera.org/account/accomplishments/certificate/SWL9NAD3RDRS
-        # description: | # this will include new lines to allow paragraphs   
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Introduction to Deep Learning    
+        title: Introduction to Deep Learning
         link: https://www.coursera.org/account/accomplishments/certificate/J7TVJGZ2DKT3
-        # description: | # this will include new lines to allow paragraphs  
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Neural Networks and Deep Learning    
+        title: Neural Networks and Deep Learning
         link: https://www.coursera.org/account/accomplishments/certificate/JNDC6XWAZACH
-        # description: | # this will include new lines to allow paragraphs   
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Getting started with TensorFlow 2    
+        title: Getting started with TensorFlow 2
         link: https://www.coursera.org/account/accomplishments/certificate/LJYQMCJ9W545
-        # description: | # this will include new lines to allow paragraphs  
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Customising your models with TensorFlow 2    
+        title: Customising your models with TensorFlow 2
         link: https://www.coursera.org/account/accomplishments/certificate/KVF9JLWWLRTP
-        # description: | # this will include new lines to allow paragraphs   
+        # description: | # this will include new lines to allow paragraphs
       - layout: top-middle
-        title: Cloud Computing Foundations    
+        title: Cloud Computing Foundations
         link: https://www.coursera.org/account/accomplishments/certificate/G5B3ZZ2AWP7X
-        # description: | # this will include new lines to allow paragraphs  
+        # description: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: false
@@ -293,4 +304,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
