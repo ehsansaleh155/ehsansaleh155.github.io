@@ -100,20 +100,19 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Location:** Tehran, Iran  
-          **Website:** www.sbu.ac.ir  
+          **Location:** Tehran, Iran   
           Teacher assistant of the course “Signals & Systems” (Dr. Z. Ahmadian), winter & spring 2020.  
           Teacher assistant of the course “Communication Circuits” (Dr. S. Karimian), fall 2019.  
           Teacher assistant of the course “Electromagnetics” (Dr. A. Pirhadi), fall 2019.
       - layout: left
         title: Intern
         caption: 30/06/2019 – 24/09/2019
-        sub_title: Telecommunication Infrastructure Company (Ministry of ICT)
+        sub_title: A Telecommunication Company
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Location:** Tehran, Iran  
-          **Website:** www.tic.ir
+          Computer Networks & CCNA
       - layout: left
         title: Head of robotic society
         caption: 14/09/2018 – 14/03/2019
@@ -121,8 +120,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Location:** Tehran, Iran  
-          **Website:** www.sbu.ac.ir
+          **Location:** Tehran, Iran
       - layout: left
         title: Vice chairman of robotic society
         caption: 30/11/2017 – 14/09/2018
@@ -130,8 +128,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Location:** Tehran, Iran  
-          **Website:** www.sbu.ac.ir  
+          **Location:** Tehran, Iran   
           Tutor of an “Arduino” workshop, spring 2018.
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -234,7 +231,7 @@ content:
           - Machine Learning for Healthcare  
           - Adversarial Machine Learning  
           - Computer Vision
-          - Cybersecurity 
+          - Cybersecurity
 
       - layout: left
         title: Hobbies
