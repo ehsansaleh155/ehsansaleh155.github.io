@@ -101,9 +101,9 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Location:** Tehran, Iran   
-          Teacher assistant of the course “Signals & Systems” (Dr. Z. Ahmadian), winter & spring 2020.  
-          Teacher assistant of the course “Communication Circuits” (Dr. S. Karimian), fall 2019.  
-          Teacher assistant of the course “Electromagnetics” (Dr. A. Pirhadi), fall 2019.
+          1. TA of the course “Signals & Systems” (Dr. Z. Ahmadian), winter & spring 2020.  
+          2. TA of the course “Communication Circuits” (Dr. S. Karimian), fall 2019.  
+          3. TA of the course “Electromagnetics” (Dr. A. Pirhadi), fall 2019.
       - layout: left
         title: Intern
         caption: 30/06/2019 – 24/09/2019
