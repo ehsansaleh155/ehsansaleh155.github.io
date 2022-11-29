@@ -120,7 +120,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Location:** Tehran, Iran
+          **Location:** Tehran, Iran  
+          **Projects:** Quadcopter, Smart Greenhouse
+
       - layout: left
         title: Vice chairman of robotic society
         caption: 30/11/2017 – 14/09/2018
@@ -129,6 +131,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Location:** Tehran, Iran   
+          **Projects:** Pathfinder robot (car), CoilGun  
           Tutor of an “Arduino” workshop, spring 2018.
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
