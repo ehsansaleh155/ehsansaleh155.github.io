@@ -151,13 +151,13 @@ content:
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           **Web:**  
-          Web Development: HTML 5, CSS, JavaScript / React  
+          Web Development: HTML 5, CSS, JavaScript / React / Vue  
             
           **Electrical Engineering:**  
           Pspice / Hspice / ADS (Advanced Design System) / Keil uVision4 / Code Vision AVR / Arduino / Proteus / MATLAB / AutoCAD  
             
           **Programming Languages:**  
-          Python / Rust / Solidity / C / C++ / Java / Scala / SQL / R / C#  
+          Python / Rust / Solidity / C / C++ / Go / Java / Scala / SQL / R / C#  
             
           **Artificial Intelligence:**  
           Generative Adversarial Networks (GAN) / Machine Learning / Deep Learning / Natural Language Processing (NLP) / Reinforcement Learning / TensorFlow2 / Keras / PyTorch  
