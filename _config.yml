@@ -231,7 +231,7 @@ content:
       - layout: left
         title: Research Interests
         description: | # this will include new lines to allow paragraphs
-          - Machine Learning for Healthcare  
+          - Privacy-preserving Data Analysis  
           - Adversarial Machine Learning  
           - Computer Vision
           - Cybersecurity
