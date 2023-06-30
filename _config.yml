@@ -176,9 +176,9 @@ content:
       - layout: top-middle
         title: Boosting Adversarial Training in Adversarial Machine Learning
         caption: 2022
-        link: https://itmmconf.ru/
+        link: https://link.springer.com/chapter/10.1007/978-3-031-30648-8_7
         description: | # this will include new lines to allow paragraphs
-          21th International Conference named after A. F. Terpugov INFORMATION TECHNOLOGIES AND MATHEMATICAL MODELLING  IТММ – 2022  
+          International Conference on Distributed Computer and Communication Networks. – 2022  
           E. Saleh, A. Poguda, D. Shashev
 
       - layout: top-middle
