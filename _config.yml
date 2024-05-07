@@ -262,7 +262,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Privacy-preserving Data Analysis  
           - Adversarial Machine Learning  
-          - Computer Vision
+          - Fairness in Machine Learning
           - Cybersecurity
 
       - layout: left
