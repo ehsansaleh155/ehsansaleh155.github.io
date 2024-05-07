@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   My goal is that my research and developed applications make positive impacts on human society.
   **Birth:** 1998
 
-  # My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain.  
+# My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain.  
   # Currently, I'm working on using the tricks of Adversarial Machine Learning in VQA (Visual Question Answering) system.  
   # I have also been learning and developing DApps in Ethereum and Solana blockchains.  
   # My goal is to do research and develop applications to make positive impacts on human society.    
@@ -117,8 +117,8 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Location:** Ohio, USA   
-          1- TA of the course “Data Structures and Algorithms” (Dr. A. Rossi), Spring 2024.  
-          2- TA of the course “Data Structures and Algorithms” (Dr. A. AlilooeeDolatabad), Summer 2024.
+          1- GTA of the course “Data Structures and Algorithms” (Dr. A. Rossi), Spring 2024.  
+          2- GTA of the course “Data Structures and Algorithms” (Dr. A. AlilooeeDolatabad), Summer 2024.
       - layout: left
         title: Teacher Assistant
         caption: 14/09/2019 – 30/06/2020
