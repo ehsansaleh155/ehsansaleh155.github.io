@@ -49,11 +49,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Currently, I am a PhD student at The Ohio State University. 
-  As for research, I am interested in security domains in general, to make our data both trustworthy and safe.
-  More exactly security in Artificial Intelligence such as securing smart systems against adversaries to make them work genuinly as well as improving privacy in data analysis to protect people's private information (Defferential Privacy).
-  I have also been learning and developing DApps in Ethereum and Solana blockchains in my spare time.
-  My goal is that my research and developed applications make positive impacts on human society.
+  Currently, I am a PhD student at The Ohio State University.  
+  As for research, I am interested in security domains in general, to make our data both trustworthy and safe.  
+  More exactly security in Artificial Intelligence such as securing smart systems against adversaries to make them work genuinly as well as improving privacy in data analysis to protect people's private information (Defferential Privacy).  
+  I have also been learning and developing DApps in Ethereum and Solana blockchains in my spare time.  
+  My goal is that my research and developed applications make positive impacts on human society.  
   **Birth:** 1998
 
 # My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain.  
