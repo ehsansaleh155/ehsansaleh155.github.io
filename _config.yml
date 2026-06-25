@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ehsan Saleh
-title: Machine Learning researcher
+title: AI researcher
 email: ehsansaleh155@gmail.com
 # website: ehsansaleh155.github.io
 skype: live:.cid.410b7f9d5d83fd60
@@ -34,7 +34,7 @@ linkedin_username: ehsan-saleh-3b7648114
 additional_links:
   - title: itsgoingto.be
     icon: fas fa-globe
-    url: https://ehsansaleh155.github.io
+    url: https://scholar.google.com/citations?hl=en&user=1P4jFGQAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -56,8 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
   In my spare time, I have been engaged in learning and developing decentralized applications (DApps) on Ethereum and Solana blockchains.  
   
   My overarching goal is for my research and developed applications to have a positive impact on human society.  
-  
-  **Birth:** 1998
 
 # My name is Ehsan Saleh. I'm spending my time in two areas, Artificial Intelligence and Blockchain.  
   # Currently, I'm working on using the tricks of Adversarial Machine Learning in VQA (Visual Question Answering) system.  
