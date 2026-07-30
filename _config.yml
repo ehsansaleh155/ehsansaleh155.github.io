@@ -32,7 +32,7 @@ linkedin_username: ehsan-saleh-3b7648114
 
 # Additional icon links
 additional_links:
-  - title: GOogle Scholar
+  - title: Google Scholar
     icon: fas fa-globe
     url: https://scholar.google.com/citations?hl=en&user=1P4jFGQAAAAJ
 # - title: another link

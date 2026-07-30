@@ -7,3 +7,5 @@
 #
 layout: default
 ---
+
+<script src="{{ '/assets/language-toggle.js' | relative_url }}" defer></script>

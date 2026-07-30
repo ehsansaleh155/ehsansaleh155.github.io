@@ -3,3 +3,54 @@
 ---
 
 @import 'modern-resume-theme';
+
+.language-toggle {
+  position: fixed;
+  top: 18px;
+  left: 18px;
+  z-index: 1000;
+  display: inline-flex;
+  padding: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(8px);
+}
+
+.language-toggle button {
+  min-width: 38px;
+  padding: 7px 9px;
+  border: 0;
+  border-radius: 999px;
+  color: #555;
+  background: transparent;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.language-toggle button[aria-pressed='true'] {
+  color: #fff;
+  background: #333;
+}
+
+.language-toggle button:focus-visible {
+  outline: 3px solid rgba(51, 51, 51, 0.3);
+  outline-offset: 2px;
+}
+
+@media print {
+  .language-toggle {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .language-toggle {
+    top: 10px;
+    left: 10px;
+  }
+}
