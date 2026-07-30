@@ -5,3 +5,5 @@ _site
 Gemfile.lock
 *.code-workspace
 ./images/profile2.jpg
+./images/profile3.jpg
+./images/landscape.jpg
